@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at Max Planck Institute for Mathematics. I received my Ph.D from Dartmouth College advised by [Carl Pomerance]([url](https://math.dartmouth.edu/~carlp/)). My research is in analytic number theory.
+I am a postdoc at Max Planck Institute for Mathematics. I received my Ph.D from Dartmouth College advised by [Carl Pomerance](https://math.dartmouth.edu/~carlp/). My research is in analytic number theory.
