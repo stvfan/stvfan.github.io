@@ -214,6 +214,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  expositions:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
