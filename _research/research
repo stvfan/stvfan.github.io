@@ -8,8 +8,17 @@ author_profile: true
 My research centers on how prime numbers distribute among natural numbers and interesting applications of such information 
 to various problems in analytic and probabilistic number theory. I am particularly interested in the distribution of primes 
 in long and short intervals as well as in arithmetic progressions and in small and large gaps between consecutive primes. 
-Well-known unsolved prob- lems in these directions include the Riemann Hypothesis and the Twin Prime Conjecture. To study 
+Well-known unsolved problems in these directions include the Riemann Hypothesis and the Twin Prime Conjecture. To study 
 primes, I use a combination of tools from complex analysis, harmonic analysis, sieve theory, probability theory and 
 combinatorics, and this is where my field of research interacts with several other fields in exciting ways.
+
+Studying the distribution of primes is important in that primes are the building blocks of natural numbers and information 
+about them is therefore indispensable in the study of plenty of arithmetic objects and structures. One such example is arithmetic 
+functions, which are functions defined on natural numbers. In my research, I study the mean values of these functions as 
+well as their distributions when modeled as appropriate random variables. As in my study of primes, I apply a variety of techniques 
+to handle problems about arithmetic functions. Not only does my research find its applications in my field, but it also sheds light 
+on some objects from algebraic number theory. For instance, my research on weighted Erd&#337;s–Kac theorems leads to a new proof of a central 
+limit theorem on Ramanujan’s τ-function due to Elliott, and my ongoing work on an analogue of Carmichael’s function provides a rather 
+accurate estimate for the typical size of the quadratic elasticity of a general quadratic imaginary number field.
 
 
