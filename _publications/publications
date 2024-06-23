@@ -1,6 +1,12 @@
 ---
 layout: archive
-title: "Publication and Preprints"
+title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
+
+<ol>
+  <li>[<A HREF="papers/WEK.pdf">Link</A>]</TD>
+<TD><I>Weighted Erd&#337;s-Kac theorems via computing moments</I>, accepted by Acta Arith., 2023.</li>
+  
+</ol>
