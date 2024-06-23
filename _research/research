@@ -4,14 +4,17 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<style> .indented { padding-left: 50pt; padding-right: 50pt; } </style>
+p {
+    text-indent:1em;  
+    text-align:justify;
+}
 
-<p class="indented"> My research centers on how prime numbers distribute among natural numbers and interesting applications of such information 
+My research centers on how prime numbers distribute among natural numbers and interesting applications of such information 
 to various problems in analytic and probabilistic number theory. I am particularly interested in the distribution of primes 
 in long and short intervals as well as in arithmetic progressions and in small and large gaps between consecutive primes. 
 Well-known unsolved problems in these directions include the Riemann Hypothesis and the Twin Prime Conjecture. To study 
 primes, I use a combination of tools from complex analysis, harmonic analysis, sieve theory, probability theory and 
-combinatorics, and this is where my area of research interacts with other areas in exciting ways.</p>
+combinatorics, and this is where my area of research interacts with other areas in exciting ways.
 
 <br><br>
 
