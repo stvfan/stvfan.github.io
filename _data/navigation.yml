@@ -22,8 +22,8 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
     
-  - title: "CV"
-    url: /_cv/CV.pdf
+  - title: <a href="CV.pdf">"CV"
+    url: /cv/
     
   #- title: "Guide"
    # url: /markdown/
