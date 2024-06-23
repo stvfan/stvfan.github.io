@@ -239,11 +239,10 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: research
+      type: pages
     values:
       layout: single
       author_profile: true
-      comments: true
   # _teaching
   - scope:
       path: ""
