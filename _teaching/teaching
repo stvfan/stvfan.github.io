@@ -26,10 +26,12 @@ author_profile: true
 <div style="margin-left: 0px;"><big
 	style="color: rgb(171, 120, 55);"><span>
 	<B>TA Appointments at Dartmouth College:</B><br>
-	<span style="color: rgb(0, 0, 0);">Math 13:	Multivariable Calculus (Spring 2020)</a></span><br>
-	<span style="color: rgb(0, 0, 0);">Math 23:	Differential Equations (Fall 2019)</a></span><br>
-	<span style="color: rgb(0, 0, 0);">Math 3:	Introduction to Calculus (Winter 2019)</a></span><br>
-	<span style="color: rgb(0, 0, 0);">Math 3:	Introduction to Calculus (Fall 2018)</a></span><br>   </big>
+     <ul>
+        <li>Math 13: Multivariable Calculus (Spring 2020)<li>
+	<li>Math 23: Differential Equations (Fall 2019)<li>
+	<li>Math 3: Introduction to Calculus (Winter 2019)<li>
+	<li>Math 3: Introduction to Calculus (Fall 2018)<li>
+     </ul>
 </div>
     
 <br><br>
