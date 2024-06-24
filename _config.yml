@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Steve's Homepage"
+title                    : "Steve's World"
 title_separator          : "-"
 name                     : &name "Steve Fan"
 description              : &description "personal description"
