@@ -21,7 +21,7 @@ repository               : "stvfan/stvfan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Windmill NL.jpg"
+  avatar           : "Windmill NL.png"
   name             : "Steve Fan"
   pronouns         : "he/his"
   bio              : #"Short biography for the left-hand sidebar"
