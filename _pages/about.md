@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at Max Planck Institute for Mathematics. I received my Ph.D. from Dartmouth College advised by [Carl Pomerance](https://math.dartmouth.edu/~carlp/) in 2023. My research is in analytic number theory.
+I am a postdoc at University of Georgia, working with Paul Pollack. I received my Ph.D. from Dartmouth College in 2023, advised by [Carl Pomerance](https://math.dartmouth.edu/~carlp/). My research is in analytic number theory. Previously, I was a postdoc at Max Planck Institute for Mathematics.
