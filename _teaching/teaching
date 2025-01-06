@@ -8,7 +8,9 @@ author_profile: true
 <div class="col c8">
 <div style="margin-left: 2px;"><span>
 	<B>Current/Upcoming Courses:</B><br>
-<li>UGA: <B>Math 1113 Precalculus (2 sections, Spring 2025)</B></li>
+<ul>
+    <li>UGA: <B>Math 1113</B> Precalculus (2 sections, Spring 2025)</li>
+</ul>
 </div>
     
 <br><br>
