@@ -11,4 +11,4 @@ I am a postdoc at the University of Georgia, working with Paul Pollack. I receiv
 
 <br><br>
 
-My Ph.D thesis can be found [here](https://stvfan.github.io/files/papers/PhDthesis.pdf) or [here](https://digitalcommons.dartmouth.edu/dissertations/156/).
+My Ph.D thesis can be found [here](https://stvfan.github.io/files/papers/PhDthesis.pdf) or at [Dartmouth Digital Commons](https://digitalcommons.dartmouth.edu/dissertations/156/).
