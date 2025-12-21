@@ -8,7 +8,6 @@ author_profile: true
 <div style="margin-left: 2px;"><span>
 	<B>Upcoming Courses</B><br>
 <ul>
-    <li>UGA: <B>Math 2700</B> Differential Equations (Spring 2026)
     <li>UGA: <B>Math 4400/6400</B> Number Theory (Fall 2026)
     <li>UGA: <B>Math 2250</B> Calculus 1 (2 sections, Spring 2027)
 </ul></li> 
@@ -21,7 +20,7 @@ author_profile: true
 <div style="margin-left: 2px;"><span>
 	<B>Current Courses</B><br>
 <ul>
-    <li>UGA: <B>Math 2250</B> Calculus 1 (2 sections, Fall 2025)
+    <li>UGA: <B>Math 2700</B> Differential Equations (Spring 2026)
 </ul></li> 
 </ul>
 </div>
@@ -31,6 +30,7 @@ author_profile: true
 <div style="margin-left: 2px;"><span>
 	<B>Past Courses</B><br>
      <ul>
+        <li>UGA: <B>Math 2250</B> Calculus 1 (2 sections, Fall 2025)</li>
         <li>UGA: <B>Math 1113</B> Precalculus (2 sections, Spring 2025) (<a href="https://stvfan.github.io/files/teaching/Solving equations involving trig and inverse trig functions.pdf">trig notes</a>)
         <li>Dartmouth: <a href="https://math.dartmouth.edu/~m11f22/"><B>Math 11</B> Accelerated Multivariable Calculus (Fall 2022)</a></li>
 	<li>Dartmouth: <a href="https://math.dartmouth.edu/~m1f21/"><B>Math 1</B> Introduction to Calculus (Fall 2021)</a></li>
