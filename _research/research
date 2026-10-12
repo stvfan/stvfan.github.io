@@ -26,8 +26,8 @@ plays an important role in the study of the typical size of an order in a fixed 
 <br><br>
 
 Besides problems of analytic nature, I am also interested in studying sets of integers satisfying certain additive constraints. My research with 
-Andrew Lott on sets whose difference sets avoid certain patterns, such as squares, sums of two squares, and shifted primes in both number fields and function 
-fields, has contributed to the advancement of our understanding of how dense such sets can be. Recently, we obtained the optimal density bound 
+Andrew Lott on sets whose difference sets avoid certain patterns, such as squares, sums of two squares, and shifted primes
+has contributed to the advancement of our understanding of how dense such sets can be. Recently, we obtained the optimal density bound 
 for sets whose difference sets avoid perfect squares that can be obtained via the quantitative van der Corput property, improving upon the previously known 
 best bound due to Green and Sawhney. In a different direction, my recent work on strongly complete sets showed that if a set of positive integers has enough 
 elements locally and satisfies some divergence condition, then every sufficiently large integer can be expressed as a sum of distinct elements from this set. 
