@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research centers on how prime numbers distribute among natural numbers and interesting applications of such information 
+My research in analytic number theory centers on how prime numbers distribute among natural numbers and interesting applications of such information 
 to various problems in analytic and probabilistic number theory. I am particularly interested in the distribution of primes 
 in intervals and arithmetic progressions as well as in gaps between consecutive primes. Well-known unsolved problems in these 
 directions include the Riemann Hypothesis and the Twin Prime Conjecture. To study primes, I use a combination of tools from 
@@ -22,5 +22,15 @@ to handle problems about arithmetic functions. Not only does my research find it
 on some objects from algebraic number theory. For instance, my research on weighted Erd&#337;s–Kac theorems leads to a new proof of a 
 central limit theorem for Ramanujan’s τ-function due to Elliott, and my recent work with Paul Pollack on an analogue of Carmichael’s function 
 plays an important role in the study of the typical size of an order in a fixed quadratic number field.
+
+<br><br>
+
+Besides problems of analytic nature, I am also interested in studying sets of integers satisfying certain additive constraints. My research with 
+Andrew Lott on sets whose difference sets avoid certain patterns, such as squares, sums of two squares, and shifted primes in both number fields and function 
+fields, has contributed to the advancement of our understanding of how dense such sets can be. Recently, we obtained the optimal density bound 
+for sets whose difference sets avoid perfect squares that can be obtained via the quantitative van der Corput property, improving upon the previously known 
+best bound due to Green and Sawhney. In a different direction, my recent work on strongly complete sets showed that if a set of positive integers has enough 
+elements locally and satisfies some divergence condition, then every sufficiently large integer can be expressed as a sum of distinct elements from this set. 
+In particular, this resolves a 1961 conjecture of Erdos.
 
 
